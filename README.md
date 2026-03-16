@@ -10,4 +10,4 @@ To not reinvent the wheel, one may use shields.io to generate badges. It's just 
 Badge|URL
 ---|---
 ![Vibe_coded_with_Claude-gray?logo=claude](https://img.shields.io/badge/Vibe_coded_with_Claude-gray?logo=claude) | `https://img.shields.io/badge/Vibe_coded_with_Claude-gray?logo=claude`
-![Vibe_coded_with_Google_Gemini-gray?logo=googlegemini](https://img.shields.io/badge/由_Google_Gemini_随想编程-gray?logo=googlegemini) | `https://img.shields.io/badge/由_Google_Gemini_随想编程-gray?logo=googlegemini`
+![携同_Google_Gemini_实行的随想编程-gray?logo=googlegemini](https://img.shields.io/badge/携同_Google_Gemini_实行的随想编程-gray?logo=googlegemini) | `https://img.shields.io/badge/由_Google_Gemini_随想编程-gray?logo=googlegemini`
